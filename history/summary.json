@@ -58,17 +58,19 @@
     "url": "https://cdn.onedns.ch",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.onedns.ch.ico",
     "slug": "free-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1454,
-    "timeDay": 2094,
-    "timeWeek": 1885,
-    "timeMonth": 1563,
-    "timeYear": 1454,
-    "dailyMinutesDown": {}
+    "time": 1432,
+    "timeDay": 1394,
+    "timeWeek": 1737,
+    "timeMonth": 1534,
+    "timeYear": 1432,
+    "dailyMinutesDown": {
+      "2024-10-10": 0
+    }
   }
 ]
