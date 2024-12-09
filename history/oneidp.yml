@@ -1,7 +1,7 @@
 url: https://oneidp.ch
-status: up
-code: 200
-responseTime: 340
-lastUpdated: 2024-12-08T23:15:13.848Z
+status: down
+code: 503
+responseTime: 396
+lastUpdated: 2024-12-09T15:33:15.928Z
 startTime: 2024-09-07T15:50:44.130Z
 generator: Upptime <https://github.com/upptime/upptime>
